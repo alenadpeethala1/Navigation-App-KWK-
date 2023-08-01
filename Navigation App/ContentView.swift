@@ -12,7 +12,7 @@ struct ContentView: View {
        
         NavigationStack {
             VStack {
-                Text("Welcome to my game! Click one of the three options for these questions🤠")
+                Text("Welcome to my game! Click one of the three options for these questions🤠!")
 
                     .font(.largeTitle)
                     .fontWeight(.semibold)
